@@ -14,8 +14,6 @@
 
 
 
-```
-
 hey;
 i'm greymtr.
 
@@ -28,3 +26,5 @@ i'm a linux user and a vi novice. i personally believe that software should be s
 i no longer use github as a source forge and have switched over to the considerably more superior sourcehut \[ sr.ht \] for now. 
 
 i primarily use github as a tool for discovering and noting down projects of interest that align with, or are adjacent to my many interests; check out the \[ somewhat extensive \] list of projects i have starred !
+
+```
